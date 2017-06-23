@@ -1,0 +1,11 @@
+index.html  
+
+<http://localhost/Task%20/index.php>
+
+list.html  
+
+<http://localhost/Task/index.php?m=content&c=index&a=lists&catid=22>
+
+content.html 
+
+<http://localhost/Task/index.php?m=content&c=index&a=show&catid=22&id=1>
